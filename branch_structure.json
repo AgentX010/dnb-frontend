@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-209-enhancement-table-skeleton-loaders-for-admin",
+    "fix/issue-500-chore-umbrella-remove-admin-mock-data",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-209-enhancement-table-skeleton-loaders-for-admin": "main",
+    "fix/issue-500-chore-umbrella-remove-admin-mock-data": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-209-enhancement-table-skeleton-loaders-for-admin",
+    "fix/issue-500-chore-umbrella-remove-admin-mock-data",
+    "origin"
+  ]
+}
